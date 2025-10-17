@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub İstatistikleri:
-![İbrahim'in GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=fevzicataltas&show_icons=true&theme=tokyonight)
+![İbrahim'in GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=ibrahim-coder&show_icons=true&theme=tokyonight)
 
 
 ---
