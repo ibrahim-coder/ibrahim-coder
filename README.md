@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub İstatistikleri:
-![İbrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kullaniciadın&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadın&layout=compact&theme=dark)
+![İbrahim'in GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=fevzicataltas&show_icons=true&theme=tokyonight)
+
 
 ---
